@@ -1,0 +1,34 @@
+
+
+/*Couleur des titres*/
+h1 {color: #00C69D;}
+h2 {color: #FF51B0}
+h3 {color: #FD8A5E}
+
+p{color:gray}
+
+ /*Liens*/
+ a {color: #07BDFF;
+    text-decoration: none;
+}
+
+/*image logo APE*/
+#logo{
+    width : 100px; height : 100px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 75px;
+  }
+
+/*image logos Email et Facebook*/
+.contact{
+    width : 20px; height : 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+time{
+    color:#FFC603;
+    font: bold;
+}
