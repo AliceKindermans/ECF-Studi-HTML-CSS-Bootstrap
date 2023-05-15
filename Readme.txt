@@ -11,8 +11,9 @@ Barème et critères d’evaluation :
 		
 Git du projet de la manière suivante :
 		
-- Branche Init :  
-- branche Master : 
+
+- branche Main : Add README.txt et Add Images
+- Branche Accueil : Add Fichier SiteAPELesEcoliersDeFontbonneAccueil.html
 - Branche membres :
 - Branche Actions :
 - Branche Adhesion :
