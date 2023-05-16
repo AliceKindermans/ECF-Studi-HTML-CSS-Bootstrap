@@ -18,4 +18,8 @@ Git du projet de la manière suivante :
 - Branche Actions :
 - Branche Adhesion :
 
+
+Info utiles :
+Mode mobile developpé sur une taille ecran = 400px * 530px
+Mode Desktop developpé sur une taille ecran = 1434px 617px
 		
