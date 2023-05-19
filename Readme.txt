@@ -26,3 +26,5 @@ Info utiles :
 Mode mobile developpé sur une taille ecran = 400px * 530px
 Mode Desktop developpé sur une taille ecran = 1434px 617px
 		
+Infos :
+Les photos AvatarPatrick et AvatarAudrey, ont volontairement été utilisés pour les "autres membres" de l'association. Ce n'est pas un oubli de copier coller c'est juste que je ne voulais pas perdre plus de temps a faire les avatars de chacun!
