@@ -14,9 +14,9 @@ Git du projet de la manière suivante :
 
 - branche Main : Add README.txt et Add Images
 - Branche Accueil : Add Fichier SiteAPELesEcoliersDeFontbonneAccueil.html
-- Branche membres :
-- Branche Actions :
-- Branche Adhesion :
+- Branche membres : Add Fichier SiteAPELesEcoliersDeFontbonnemembres.html
+- Branche Actions : Add Fichier SiteAPELesEcoliersDeFontbonneactions.html
+- Branche Adhesion : Add Fichier SiteAPELesEcoliersDeFontbonneAdhesion.html
 
 
 Info utiles :
