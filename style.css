@@ -1,25 +1,51 @@
+/*Fichier CSS du Site internet de l'Association des Parents d'Eleves : les Ecoliers de Fontbonne*/
+
+/*Police d'ecriture*/
+body{ font-family:'poppins', 'arial', sans-serif;
+}
 
 
 /*Couleur des titres*/
 h1 {color: #00C69D;}
-h2 {color: #FF51B0}
-h3 {color: #FD8A5E}
+h2 {color: #FF51B0;}
+h3 {color: #FD8A5E;}
 
-p{color:gray}
+/*Couleur des différents textes*/
+p{color:gray;}
 
- /*Liens*/
- a {color: #07BDFF;
+time{
+    color:#FFC603;
+    font: bold;
+}
+
+#role{
+    color:#FFC603;
+    font: bold;
+}
+
+/*Liens*/
+a {color: #07BDFF;
     text-decoration: none;
 }
 
 /*image logo APE*/
 #logo{
-    width : 100px; height : 100px;
+    width : 150px; 
+    height : 150px;
     border: none;
     -moz-border-radius : 75px;
     -webkit-border-radius : 75px;
     border-radius : 75px;
-  }
+}
+@media (max-width: 650px) {
+    #logo {
+        width : 100px; 
+        height : 100px;
+        -moz-border-radius : 50px;
+        -webkit-border-radius : 50px;
+        border-radius : 50px;
+    }
+}
 
 /*image logos Email et Facebook*/
 .contact{
@@ -28,7 +54,19 @@ p{color:gray}
     border-radius: 5px;
 }
 
-time{
-    color:#FFC603;
-    font: bold;
+/*Bordures sur et sous le menu*/
+#menuNavidation{
+    border-top: 2px solid #00C69D;
+    border-bottom: 2px solid #00C69D;
 }
+
+/*texte justifié*/
+div, ul{
+ text-align: justify;
+}
+
+/*Card dans Action*/
+.card {
+    width: 20rem;
+}
+
