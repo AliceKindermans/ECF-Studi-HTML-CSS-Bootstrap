@@ -1,5 +1,5 @@
 Livrables attendus :
-		Un site internet présente de nombreux intérêts pour une association, surtout en termes de visibilité. Alors une association vous demande vos services dans la création d'un site vitrine (c’est à vous de choisir une association, qu’elle soit réelle ou fictive, l’important sera votre code). 
+		Un site internet d'une association dont le but est de gagner en visibilité, avec une configuration responsive mobile first. 
 		Un dépôt contenant le code source de votre rendu.  
 		
 Barème et critères d’evaluation :
@@ -17,6 +17,9 @@ Git du projet de la manière suivante :
 - Branche membres : Add Fichier SiteAPELesEcoliersDeFontbonnemembres.html
 - Branche Actions : Add Fichier SiteAPELesEcoliersDeFontbonneactions.html
 - Branche Adhesion : Add Fichier SiteAPELesEcoliersDeFontbonneAdhesion.html
+
+Fusion des branches :
+   Main -Accueil -Membres -Actions -Adhesion
 
 
 Info utiles :
