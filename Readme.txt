@@ -1,6 +1,6 @@
 Livrables attendus :
-		Un site internet d'une association dont le but est de gagner en visibilité, avec une configuration responsive mobile first. 
-		Un dépôt contenant le code source de votre rendu.  
+		Un site internet d'une association dont le but est de gagner en visibilité, avec une configuration responsive et une interface mobile first. 
+		Un dépôt contenant le code source du rendu.  
 		
 Barème et critères d’evaluation :
 	- Interface utilisateur claire et bien pensée (4 points). 
@@ -21,10 +21,7 @@ Git du projet de la manière suivante :
 Fusion des branches :
    Main -Accueil -Membres -Actions -Adhesion
 
-
-Info utiles :
-Mode mobile developpé sur une taille ecran = 400px * 530px
-Mode Desktop developpé sur une taille ecran = 1434px 617px
+Lien vers page GitHub : https://alicekindermans.github.io/ECF-Studi-HTML-CSS-Bootstrap/
 		
 Infos :
-Les photos AvatarPatrick et AvatarAudrey, ont volontairement été utilisés pour les "autres membres" de l'association. Ce n'est pas un oubli de copier coller c'est juste que je ne voulais pas perdre plus de temps a faire les avatars de chacun!
+Les photos AvatarPatrick et AvatarAudrey, ont volontairement été utilisés pour les "autres membres" de l'association. Ce n'est pas un oubli de copier coller c'est juste que je ne voulais pas perdre plus de temps a faire les avatars de chacun et surcharger le dossier avec de nouvelles images.
